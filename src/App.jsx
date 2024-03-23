@@ -91,6 +91,14 @@ function App() {
               >
                 {breed.weight.metric} lbs
               </button>
+              <button
+                onClick={(e) => {
+                  e.preventDefault();
+                  handleBanList(breed.breed_group);
+                }}
+              >
+                {breed.breed_group}
+              </button>
             </div>
           ))}
         </div>
