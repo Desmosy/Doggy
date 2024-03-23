@@ -29,20 +29,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Csv1YrF" data-context="false" ><a href="//imgur.com/a/Csv1YrF">Video Walk Through</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
+Fetching the data
 ## License
 
     Copyright [2024] [Koshish]
