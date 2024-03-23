@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Csv1YrF" data-context="false" ><a href="[//imgur.com/a/Csv1YrF](https://i.imgur.com/p6UnZvR.gif)">Video Walk Through</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://i.imgur.com/p6UnZvR.gif">Video Walk Through</a>
 
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
